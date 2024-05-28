@@ -15,7 +15,7 @@ I transform raw data into compelling narratives using visualization and analysis
 	<img title="MySQL" alt="MySQL" src="assets/mysql.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
 	<img title="Git" alt="Git" src="assets\git.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>	
 	<img title="Tableau" alt="Tableau" src="assets\tableau.svg" width="200" style="vertical-align:down; margin:4px"/>
-	<img title="Latex" alt="Latex" src="assets\LaTeX_logo.svg" width="200" style="vertical-align:down; margin:4px"/>
+	<img title="Latex" alt="Latex" src="assets\LaTeX_logo.svg" width="100" style="vertical-align:down; margin:4px"/>
 </p>
 
 <!--
@@ -41,8 +41,9 @@ Here are some ideas to get you started:
 <br>
 <a target="_blank" href="https://apurvaanand.com/"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>	
 <a target="_blank" href="https://www.linkedin.com/in/apurva-a/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:apurva.anand2000@outlook.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href="https://public.tableau.com/app/profile/"><img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"></img></a>
+<a target="_blank" href="mailto:apurva.anand2000@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></img></a>
+<a target="_blank" href="https://public.tableau.com/app/profile/apurva.anand1492/"><img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"></img></a>
+<a target="_blank" href="https://leetcode.com/u/Apurv-v/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></img></a>
 
 <br>
 </p>       
