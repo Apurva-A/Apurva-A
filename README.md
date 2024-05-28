@@ -16,7 +16,6 @@ I transform raw data into compelling narratives using visualization and analysis
 	<img title="Git" alt="Git" src="assets\git.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>	
 	<img title="Tableau" alt="Tableau" src="assets\tableau.svg" width="200" style="vertical-align:down; margin:4px"/>
 	<img title="Latex" alt="Latex" src="assets\LaTeX_logo.svg" width="200" style="vertical-align:down; margin:4px"/>
-	assets\LaTeX_logo.svg
 </p>
 
 <!--
