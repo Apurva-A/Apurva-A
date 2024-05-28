@@ -10,11 +10,13 @@ I transform raw data into compelling narratives using visualization and analysis
 ### My skills include
 
 <p align="center">
-	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="R" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/r-lang.svg" width="55" style="vertical-align:down; margin:4px"/>
-	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>	
-	<img title="Tableau" alt="Tableau" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/tableau.svg" width="200" style="vertical-align:down; margin:4px"/>
+	<img title="Python" alt="Python" src="assets\python.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
+	<img title="R" alt="RLang" src="assets\r-lang.svg" width="55" style="vertical-align:down; margin:4px"/>
+	<img title="MySQL" alt="MySQL" src="assets/mysql.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
+	<img title="Git" alt="Git" src="assets\git.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>	
+	<img title="Tableau" alt="Tableau" src="assets\tableau.svg" width="200" style="vertical-align:down; margin:4px"/>
+	<img title="Latex" alt="Latex" src="assets\LaTeX_logo.svg" width="200" style="vertical-align:down; margin:4px"/>
+	assets\LaTeX_logo.svg
 </p>
 
 <!--
