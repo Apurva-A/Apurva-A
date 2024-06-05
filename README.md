@@ -3,7 +3,7 @@ Data Analyst | Storyteller with Data<br>
 I transform raw data into compelling narratives using visualization and analysis.   I love the challenge of turning endless rows and columns into insights that inform decisions.
 
 
--  :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
+-  :bulb: I'm interested in all things data: **Machine Learning, Data Science and Data Analytics**
 - ⚡ **Fun fact:** The world often exhibits a remarkable degree of interconnectedness. The concept of "six degrees of separation" posits that any two individuals on the planet are connected by a chain of no more than six acquaintances.  This fosters a belief that farewells, particularly in the age of technology, need not be definitive. When departing from loved ones or colleagues, I find it more apt to say "until we meet again" rather than "goodbye," reflecting the strong likelihood of future encounters, either in person or virtually.
 - 💬 Talk to me about History 🏛️, Memes, Anime, Movies 🎥, Helldivers 2 🎮, Good Food 🥘
 
